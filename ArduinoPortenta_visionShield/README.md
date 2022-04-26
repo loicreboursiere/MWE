@@ -1,6 +1,5 @@
-# Minimum Working Example - Arduino Portenta H7 with vision shield (LoRA compatible)
+# Minimum Working Example - Arduino Portenta H7 with vision shield (LoRA compatible) - Blob detection
 
-- Object : making blob detection work with Arduino Portenta + vision shield (LoRA compatible)
 
 - !!! On Mac OSX, it seems like you need to connect the Arduino through USB Hub !!!
 - Getting Started with OpenMV and MicroPython
